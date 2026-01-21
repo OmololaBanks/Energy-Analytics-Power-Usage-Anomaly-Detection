@@ -76,3 +76,7 @@ o	Housing type and regional segmentation
 ## Tools Used
 -	Google Sheets – data cleaning, preprocessing, and feature engineering
 -	Tableau Public – interactive dashboards and visual analytics
+
+## Live Dashboard
+The interactive Tableau dashboard is hosted on OneDrive for easy viewing: (https://public.tableau.com/app/profile/omolola.bankole8473/viz/EnergyOverviewDashboard/EnergyOverview)
+
