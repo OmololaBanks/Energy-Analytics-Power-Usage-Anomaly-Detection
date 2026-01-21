@@ -13,12 +13,12 @@ Designed around real-world energy utility challenges, the dashboard demonstrates
 •	Support proactive energy efficiency and customer engagement strategies
 
 ## Data Sources
-•	Smart Meter Data:
-o	Reading timestamp
-o	Energy usage (kWh)
-o	Customer ID and customer name
-o	Region
-o	Housing type
+•	Smart Meter Data: 
+Reading timestamp
+Energy usage (kWh)
+Customer ID and customer name
+Region
+Housing type
 •	Derived Attributes:
 o	Spike indicators
 o	Baseline usage
